@@ -1,0 +1,10 @@
+.home-hero { padding: 28px 0 24px; }
+.home-hero h1 { font-size: 30px; margin: 0 0 8px; }
+.home-hero p { max-width: 56ch; color: var(--muted); line-height: 1.5; margin: 0 0 20px; }
+.home-buttons { display: flex; gap: 10px; }
+
+.home-steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.home-steps li { display: flex; justify-content: space-between; gap: 16px; }
+.home-steps span { color: var(--muted); }
+
+.recent-empty { color: var(--muted); margin: 0; }
